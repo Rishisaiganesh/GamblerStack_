@@ -9,6 +9,8 @@ namespace Gambler_
             Console.WriteLine("Wlecome to gambler stack");
             Check obj = new Check();
             obj.check();
+            obj.winorloss();
         }
+
     }
 }
