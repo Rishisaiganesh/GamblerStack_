@@ -10,6 +10,8 @@ namespace Gambler_
             Check obj = new Check();
             obj.check();
             obj.winorloss();
+            obj.WinorLoss();
+            
         }
 
     }
